@@ -18,5 +18,6 @@ Ponadto funkcja tworzy jeden połączony plik z danymi, który można wykorzsyta
 
 ### 2. Analysis
 
-Aaliza widm przebiega dla każdej temperatury T_stop. Na początku program ładuje odpowiednie dane i szuka pierwszego maksimum intensywności na widmie i odpowiadającą mu temperaturę (T_max).
+Analiza widm przebiega dla każdej temperatury T_stop. Na początku program ładuje odpowiednie dane i szuka pierwszego maksimum intensywności na widmie i odpowiadającą mu temperaturę (T_max).
 
+![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/func1.png)
