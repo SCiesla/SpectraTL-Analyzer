@@ -21,3 +21,5 @@ Ponadto funkcja tworzy jeden połączony plik z danymi, który można wykorzsyta
 Analiza widm przebiega dla każdej temperatury T_stop. Na początku program ładuje odpowiednie dane i szuka pierwszego maksimum intensywności na widmie i odpowiadającą mu temperaturę (T_max). Przykłady działania funkcji wynajdywania pierwszego maksimum poniżej. 
 
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/T_stop__120_TSTOP.png)
+
+Wybierane są następnie punkty odpowiadające 15% temperatury maksymalnej i osie zostają przekształcone. Oś X => 1/kT a oś Y na Log(Int). 
