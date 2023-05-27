@@ -26,4 +26,10 @@ Następnie wybierane są punkty odpowiadające 15% temperatury maksymalnej a war
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/T_stop__170_IRM_TI.png)
 
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/T_stop__200_IRM_lnkT.png)
-Następnie zostaje przyfitowana funkcja liniowa dla odcinka niebędącego szumem. 
+Następnie zostaje przyfitowana funkcja liniowa dla odcinka niebędącego szumem. Wartość współczynnika kierunkowego tej prostej równa jest energii aktywacji w materiale. 
+
+### 3. Zapis wyników
+
+Dla każdej z tych serii widm powstaje wykres podsumowaujący ich energie aktywacji wraz z temperaturą maksymalną. 
+
+![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/TmaxTstopEnergy.png)
