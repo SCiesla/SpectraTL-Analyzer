@@ -13,7 +13,7 @@ Powoduje to utworzenie dużej ilości widm do analizy przez co ta procedura staj
 1. Organizacja plików otrzymanych z aparatury pomiarowej poprzez selekcję i wybór odpowiedmich danych a następnie zapisanie ich do nowo utworzonego folderu.   
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/func1.png)
 Każdy nowo utworzony plik ma nazwę odpowiadajacą temperaturze T_stop. 
-Ponadto funkcja tworzy jeden połączony plik z danymi, który można wykorzsytać w dalszej analizie
+Ponadto funkcja tworzy jeden połączony plik z danymi, który wykorzystywany jest w dalszej analizie
 
 
 ### 2. Analysis
