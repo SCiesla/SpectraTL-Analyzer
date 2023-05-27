@@ -46,7 +46,7 @@ Po wykonanej analzie utworzone zostają foldery oraz dodatkowe pliki.
 
 ## Wykorzystane biblioteki 
 
-### obliczenia:
+### Obliczenia:
 - Pandas
 - Numpy
 - Matplotlib
