@@ -30,6 +30,8 @@ Następnie zostaje przyfitowana funkcja liniowa dla odcinka niebędącego szumem
 
 ### 3. Zapis wyników
 
-Dla każdej z tych serii widm powstaje wykres podsumowaujący ich energie aktywacji wraz z temperaturą maksymalną. 
+Dla każdej z tych serii widm powstaje wykres podsumowaujący ich energie aktywacji wraz z temperaturą maksymalną i temperaturą Tstop. 
 
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/TmaxTstopEnergy.png)
+
+Po wykonanej analzie utworzone zostają foldery, które zawierają wysztkie wykresy wykonane podczas analizy, folder zawierajacy przekształcone dane (log(int) i 1/kT)).
