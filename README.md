@@ -22,4 +22,4 @@ Analiza widm przebiega dla każdej temperatury T_stop. Na początku program ład
 
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/T_stop__120_TSTOP.png)
 
-Wybierane są następnie punkty odpowiadające 15% temperatury maksymalnej i osie zostają przekształcone. Oś X => 1/kT a oś Y na Log(Int). 
+Następnie wybierane są punkty odpowiadające 15% temperatury maksymalnej a wartości na osiach X i Y zostają przekształcone. Oś X => 1/kT a oś Y na Log(Int). 
