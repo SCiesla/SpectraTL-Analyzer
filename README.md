@@ -16,4 +16,7 @@ Każdy nowo utworzony plik ma nazwę odpowiadajacą temperaturze T_stop.
 Ponadto funkcja tworzy jeden połączony plik z danymi, który można wykorzsytać w dalszej analizie
 
 
-### 2. 
+### 2. Analysis
+
+Aaliza widm przebiega dla każdej temperatury T_stop. Na początku program ładuje odpowiednie dane i szuka pierwszego maksimum intensywności na widmie i odpowiadającą mu temperaturę (T_max).
+
