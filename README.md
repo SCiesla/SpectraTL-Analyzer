@@ -44,3 +44,22 @@ Po wykonanej analzie utworzone zostają foldery oraz dodatkowe pliki.
  - **Report** - plik pdf z raportem na temat analizy, najważniejsze wykresy i wykonane obliczenia 
  - **summary_data_frame** - plik zawierający obliczone wartości energii, temperatury i wartości niepewności pomiarowych 
 
+## Wykorzystane biblioteki 
+
+### obliczenia:
+- Pandas
+- Numpy
+- Matplotlib
+
+### GUI: 
+- cutomtinker 
+
+### Dodatkowo: 
+
+- datetime 
+- fpdf
+
+[1] "On the Analysis of Complex Thermoluminescence Glow-Curves: Resolution into Individual Peaks" S. W. S. MCKEEVER
+
+
+
