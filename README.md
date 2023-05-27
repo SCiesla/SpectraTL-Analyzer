@@ -37,7 +37,7 @@ Dla każdej z tych serii widm powstaje wykres podsumowaujący ich energie aktywa
 Po wykonanej analzie utworzone zostają foldery oraz dodatkowe pliki. 
 
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/folder_prez.PNG)
- - **Charts** zawiera wszystkie wykresy wykonene podczas analizy
+ - **Charts** zawiera wszystkie wykresy wykonane podczas analizy
  - **Excel files** - pliki excela utworzone podczas selekcji danych
  - **IRM_results** - folder zawierający przekształcone dane (log i 1/kT) 
  - **Data_set** - plik połączonych danych z folderu Excel_files
