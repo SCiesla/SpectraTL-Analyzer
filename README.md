@@ -34,4 +34,6 @@ Dla każdej z tych serii widm powstaje wykres podsumowaujący ich energie aktywa
 
 ![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/TmaxTstopEnergy.png)
 
-Po wykonanej analzie utworzone zostają foldery, które zawierają wysztkie wykresy wykonane podczas analizy, folder zawierajacy przekształcone dane (log(int) i 1/kT)).
+Po wykonanej analzie utworzone zostają foldery oraz dodatkowe pliki. 
+
+![](https://github.com/SCiesla/SpectraTL-Analyzer/blob/main/images/folder_prez.PNG)
