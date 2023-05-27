@@ -6,4 +6,4 @@ Program powstał, aby ułatwić analizę T_max T_stop szerzej opisaną w literat
 
 Powoduje to utworzenie dużej ilości widm do analizy przez co ta procedura staje się czasochłonna i często jest pomijana przez badaczy. 
 
-Program powstał w celu przyśpieszenia i zautomatyzowania analizy widm z wykorzystaniem języka Python wraz z kilkoma bibliotekami (Pandas, Numpy, Matplotlib). 
+**Program powstał w celu przyśpieszenia i zautomatyzowania analizy widm** z wykorzystaniem języka Python wraz z kilkoma bibliotekami (Pandas, Numpy, Matplotlib). 
