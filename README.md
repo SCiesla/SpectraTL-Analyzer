@@ -10,4 +10,4 @@ Powoduje to utworzenie dużej ilości widm do analizy przez co ta procedura staj
 
 ## Funkcje
 
-1. Organizacja plików otrzymanych z aparatury pomiarowej poprzez selekcja i wybór odpowiedmich danych a następnie zapisanie ich do osobnego pliku  
+1. Organizacja plików otrzymanych z aparatury pomiarowej poprzez selekcję i wybór odpowiedmich danych a następnie zapisanie ich do nowo utworzonych folderów.   
